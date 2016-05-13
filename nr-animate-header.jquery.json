@@ -1,0 +1,27 @@
+{
+  "name": "nr-animate-header",
+  "title": "Nr Animate Header",
+  "description": "Animating text for a site header",
+  "version": "0.1.0",
+  "homepage": "https://github.com/nicolasromer/Animate-Site-Title",
+  "author": {
+    "name": "Nicolas Romer",
+    "email": "nicolasromer@gmail.com",
+    "url": "nicolasromer.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicolasromer/Animate-Site-Title.git"
+  },
+  "bugs": "https://github.com/nicolasromer/Animate-Site-Title/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/nicolasromer/Animate-Site-Title/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
